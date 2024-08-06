@@ -1,0 +1,36 @@
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Copperplate", "Garamond", serif;
+    text-align: center;
+    background-color: rgb(185, 140, 50);
+    align-content: center;
+    color: rgb(255, 250, 220);
+}
+
+h1 {
+    font-size: 50px;
+    height: 80px;
+}
+
+h2, h3 {
+    font-size: 30px;
+    height: 40px;
+}
+
+h4 {
+    font-size: 20px;
+    height: 25px;
+}
+
+body {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    background-color: rgb(255, 240, 200);
+    font-size: 16px;
+}
+
+.links {
+    font-size: 25px;
+    color: black;
+}
